@@ -1,16 +1,35 @@
 ## Hi there 👋
+* 👋 I’m Meghana U
+* 🎓 I’m an Information Science graduate from Dayananda Sagar Academy of Technology and Management
+* 💻 I’m interested in Full Stack Development, Data Analytics, Cloud, and Scalable Application Development
+* 🌱 I’m currently learning advanced Spring Boot and Data Analytics projects
+* 👩‍💻 I have worked on Full Stack and AI DevOps internships
+* 🚀 I built projects like RevPay Financial Application and Web Applications using Spring Boot
+* 🤝 I’m looking to collaborate on Web Development, Java, Spring Boot, and Data Analytics projects
+* 📫 How to reach me: meghanaumesh40@gmail.com
+* 😄 Pronouns: She/Her
+* ⚡ Fun fact: I love fitness, dance, video editing, supercars, and stock market trends
 
-<!--
-**meghzz14/meghzz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* SQL / Oracle
+* Python
+* JavaScript
+* HTML / CSS / Bootstrap
+* Django
+* Git / GitHub
+* CI/CD Concepts
+* Cloud Computing
+
+---
+
+## 📂 Projects
+
+* **RevPay Console Application** – Financial transaction management system
+* **RevPay Full Stack Web Application** – Spring Boot financial management system
+
+---
