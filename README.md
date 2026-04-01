@@ -2,7 +2,6 @@
 * 👋 I’m Meghana U
 * 🎓 I’m an Information Science graduate from Dayananda Sagar Academy of Technology and Management
 * 💻 I’m interested in Full Stack Development, DevOps, and Scalable Application Development
-* 🌱 I’m currently learning advanced Spring Boot and Data Analytics projects
 * 👩‍💻 I have worked on Full Stack and AI DevOps internships
 * 🚀 I built projects like RevPay Financial Application and Web Applications using Spring Boot
 * 🤝 I’m looking to collaborate on Web Development, Java, Spring Boot, and Data Analytics projects
